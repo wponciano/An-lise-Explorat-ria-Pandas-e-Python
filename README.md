@@ -1,2 +1,2 @@
-# An-lise-Explorat-ria-Pandas-e-Python
+# Analise-Exploratoria-Pandas-e-Python
 Estudo DIO Carrefour
